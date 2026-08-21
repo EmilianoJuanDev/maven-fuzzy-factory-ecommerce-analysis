@@ -1,0 +1,46 @@
+cantidad de sesiones 472871
+cantidad de pedidos 32313
+periodo temporal entre 19/3/2012 a 19/3/2015
+cantidad de productos = 4
+cantidad de clientes = 394318
+cantidad de sesiones = 472871
+
+¿Cuántas filas tiene cada tabla?
+
+order_item_refunds 1731
+order_items 40025
+products 4
+website_pageviews 1188124
+website_sessions 472871
+
+¿Cuál es la fecha mínima y máxima de las tablas que tienen fechas?
+
+order_item_refunds 2012-04-06 11:32:43.0000000 a 2015-04-01 18:11:08.0000000
+order_items 2012-03-19 10:42:46.0000000 a 2015-03-19 05:38:31.0000000
+orders 2012-03-19 10:42:46.0000000 a 2015-03-19 05:38:31.0000000
+products 2012-03-19 08:00:00.0000000 a 2014-02-05 10:00:00.0000000
+website_pageviews 2012-03-19 08:04:16.0000000 a 2015-03-19 07:59:32.0000000
+website_sessions 2012-03-19 08:04:16.0000000 a 2015-03-19 07:59:08.0000000
+
+¿Qué productos existen?
+
+1 The Original Mr. Fuzzy
+2 The Forever Love Bear
+3 The Birthday Sugar Panda 
+4 The Hudson River Mini bear
+
+¿Qué canales de marketing aparecen?
+
+website_sessions utm_campaign:
+brand
+desktop_targeted
+nonbrand
+NULL
+pilot
+
+¿Qué tipos de dispositivos aparecen?
+1 mobile 145844
+2 desktop 327027
+
+¿Cómo se relacionan website_sessions y orders?
+Se relacionan en website_session_id, fecha_session, utm_source, utm_campaign, device_type, order_id, fecha_orden y price_usd
