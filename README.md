@@ -51,8 +51,11 @@ El dashboard permite explorar de forma dinámica:
 - Revenue por sesión por fecha
 - Desglose por canal de adquisición (`utm_source` / `utm_campaign`)
 
-![Dashboard overview](dashboard/screenshots/overview.png)
-![Canales de marketing](dashboard/screenshots/channels.png)
+![Dashboard overview](dashboard/screenshots/Dashboard.png)
+
+Ejemplo de Dashboard con los datos de movimientos de marketing a pérdida:
+
+![Dashboard con los datos de movimientos de marketing a pérdida](dashboard/screenshots/campaignsremoved.png)
 
 > 📎 Archivo fuente: [`dashboard/JugueteriaDatosBI.pbix`](dashboard/JugueteriaDatosBI.pbix)
 
