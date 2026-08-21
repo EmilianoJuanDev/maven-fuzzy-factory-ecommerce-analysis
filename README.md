@@ -119,7 +119,10 @@ maven-fuzzy-factory-analysis/
 
 ## 👤 Autor
 
-**[Emiliano Juan]**
-LinkedIn: https://www.linkedin.com/in/emiliano-juan/?locale=es ·
+**Emiliano Juan**
+
+LinkedIn: https://www.linkedin.com/in/emiliano-juan/?locale=es
+
 Portfolio: https://github.com/EmilianoJuanDev
+
 Email: emiliano.juan.dev@gmail.com
